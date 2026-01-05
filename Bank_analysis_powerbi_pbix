@@ -1,0 +1,8 @@
+DAX measures 
+Total Appearances = SUM(serp_hits[Appears])' was created to aggregate SEO visibility. 
+
+Keywords Tracked = DISTINCTCOUNT( 'serp_hits'[Keyword])was created to get the total keywords.
+
+Visibility Share % = DIVIDE([Appearances],CALCULATE( COUNTROWS('serp_hits'), ALL('serp_hits'[Bank]), 'serp_hits'[Appears] = 1 )) was created for visibility ranking.
+
+Avg Rank = AVERAGEX(  FILTER('serp_hits', 'serp_hits'[Appears] = 1 && NOT ISBLANK('serp_hits'[Rank_Position]) ), 'serp_hits'[Rank_Position]) was created to get the average rank lower is better.
