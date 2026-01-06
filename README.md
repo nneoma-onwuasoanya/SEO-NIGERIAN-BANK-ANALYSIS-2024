@@ -1,5 +1,5 @@
 # SEO VISIBILITY ANALYSIS ON NIGERIAN BANKS (2024)
-Using Google keyword planner, Serp Hits and revenue data for each bank, i explored Nigeian banks performance in search engine visibility and examined the relationship between their online presence and financial success. By combining SEO metrics and financial performance data, My goal was to understand which banks dominate in search visibility and whether this correlates with their financial health.
+Using Google Keyword Planner, Serp Hits, and revenue data for each bank. I explored Nigerian banks performance in search engine visibility, and examined the relationship between their online presence and financial success. By combining SEO metrics and financial performance data, My goal was to understand which banks dominate in search visibility and whether this correlates with their financial health.
 
 ## Business Problem
 In today's digital world, strong SEO performance can play a vital role in the success of financial institutions. This analysis helps answer these business questions:
@@ -11,9 +11,9 @@ Is there a correlation between SEO visibility and revenue for these banks?
 How can banks optimize their SEO strategies to improve their online presence and attract more customers?
 
 ## Methodology
-SEO keyword Data was gathered using google keyword planner focused on consumer banking keywords, each Keyword search volume, competition level were recorded.
+SEO keyword Data was gathered using Google Keyword Planner focused on consumer banking keywords, each Keyword search volume, competition level were recorded.
 
-Each keyword was searched on google using incognito to reduce personalization and each bank’s first-page appearances on Google was counted manually and ranked by position of appearance.
+Each keyword was searched on Google using incognito to reduce personalization, and each bank’s first-page appearance on Google was counted manually and ranked by position of appearance.
 
 Each bank revenue was sourced from the official annual reports covering 2023 and 2024 financial year and standardized in naira for consistency.
 
@@ -26,15 +26,17 @@ PowerBI: DAX, Data modeling, Data Visualization, calculated columns.
 
 ## Limitations
 
-Standard Chatered's global revenue in USD distorted the correlation with SEO visibility
+Standard Chartered's global revenue in USD distorted the correlation with SEO visibility
 
-Polaris bank's 2024 revenue was unavailable at the time of this analysisand 2023 revenue was used.
+Polaris bank's 2024 revenue was unavailable at the time of this analysis and 2023 revenue was used.
 
-Manual tracking of firat-page appearances may lead to slightly inaccuracies due to location or search history.
+Manual tracking of first-page appearances may lead to slight inaccuracies due to location or search history.
 
 The dataset was focused on consumer banking keywords only.
 
 ## Results 
+<img width="893" height="505" alt="image" src="https://github.com/user-attachments/assets/0480a1b5-1d08-4fbb-b405-a62ef24e6e7d" />
+
 Keywords like "Savings account," "USSD code," and "Short-term loan" were the most searched, highlighting strong demand for consumer banking.
 
 Access Bank leads with 34 keywords and a 14.78% visibility share.
