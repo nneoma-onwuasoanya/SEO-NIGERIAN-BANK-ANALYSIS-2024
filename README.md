@@ -35,7 +35,8 @@ Manual tracking of first-page appearances may lead to slight inaccuracies due to
 The dataset was focused on consumer banking keywords only.
 
 ## Results 
-<img width="893" height="505" alt="image" src="https://github.com/user-attachments/assets/0480a1b5-1d08-4fbb-b405-a62ef24e6e7d" />
+<img width="905" height="506" alt="image (1)" src="https://github.com/user-attachments/assets/d6535436-0c06-4a40-b6bc-15fcb06df358" />
+<img width="893" height="505" alt="image" src="https://github.com/user-attachments/assets/261165a0-ba47-46b2-80a6-ff2ce326fc8f" />
 
 Keywords like "Savings account," "USSD code," and "Short-term loan" were the most searched, highlighting strong demand for consumer banking.
 
